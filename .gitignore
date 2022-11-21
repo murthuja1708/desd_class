@@ -1,4 +1,4 @@
-./hifive_programs/*
-./software
-./*.pdf
-./*.png
+hifive_programs/*
+software
+*.pdf
+*.png
